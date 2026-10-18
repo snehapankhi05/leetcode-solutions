@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0414-third-maximum-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
@@ -95,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
