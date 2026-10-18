@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -79,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
