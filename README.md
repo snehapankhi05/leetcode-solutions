@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0414-third-maximum-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## String
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Floyd's Cycle Finding Algorithm
@@ -96,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0169-majority-element) |
 ## Tree
 |  |
 | ------- |
@@ -114,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
