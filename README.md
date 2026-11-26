@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/snehapankhi05/leetcode-solutions/tree/master/0242-valid-anagram) |
 ## Floyd's Cycle Finding Algorithm
 |  |
